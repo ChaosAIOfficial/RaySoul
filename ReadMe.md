@@ -1,5 +1,7 @@
 ﻿# RaySoul
 
+**The development has been paused because the developers lack of time.**
+
 A fast, lightweight, portable and secure runtime based on 64-bit RISC-V
 Unprivileged ISA Specification.
 
